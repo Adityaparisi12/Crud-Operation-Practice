@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CompTracking from "./comptracking/CompTracking";
+import CompTracking from "./comptracking/Comptracking";
 
 function App() {
 
