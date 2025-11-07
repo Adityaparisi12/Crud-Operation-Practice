@@ -68,7 +68,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
-          <mainClass>com.klef.comptracking.YourMainApplicationClass</mainClass>
+          <mainClass>com.klef.comptracking</mainClass>
         </configuration>
       </plugin>
     </plugins>
